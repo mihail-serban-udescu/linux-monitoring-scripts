@@ -1,0 +1,23 @@
+# Logs
+*.log
+logs/
+
+# Output files
+*.txt
+*.csv
+output/
+
+# Python (dacă adaugi scripturi Python)
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
